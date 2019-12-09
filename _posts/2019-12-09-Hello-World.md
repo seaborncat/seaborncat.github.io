@@ -4,7 +4,6 @@ date: 2019-12-09
 categories:
   - blog
 tags:
-  - Jekyll
   - Welcome
 ---
 
@@ -19,7 +18,7 @@ Jekyll also offers powerful support for code snippets:
 ```python
 def print_hi(name)
   print( "Hi, ",name)
-  
+
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
