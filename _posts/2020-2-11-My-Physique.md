@@ -1,5 +1,5 @@
 ---
-title: "Pictionary"
+title: "Being more active"
 date: 2020-2-11
 categories:
   - blog
