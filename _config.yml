@@ -68,15 +68,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aceking007"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/ompuri55555"
     - label: "Medium"
       icon: "fab fa-fw fa-medium-m"
       url: "https://medium.com/@omarpit26"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/om_arpit"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/ompuri55555"
 
 footer:
   links:
