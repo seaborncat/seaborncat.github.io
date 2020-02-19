@@ -116,9 +116,9 @@ comments:
     num_posts: 5
     colorscheme: "dark"
 
-category_archive:
-  type: liquid
-  path: /categories/
+# category_archive:
+#   type: liquid
+#   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
