@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Saurabh Annadate"
-  avatar : "/assets/images/profile_picture.jpeg"
+  avatar : "/assets/images/profile_picture.jpg"
   bio    : "MS student at IISER Mohali"
   links:
 #     - label: "Website"
